@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729322728 source:d:\code\lich am\main.c
+	<stdio.h>
+	<stdlib.h>
+

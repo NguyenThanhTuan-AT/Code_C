@@ -1,0 +1,6 @@
+--------------DANH SACH NHAN VIEN----------------
+ID        Ho ten               Chuc vu        SoDT      
+1         Nguyen Van A         Bao ve         1          
+2         Nguyen Van B         Giam doc       2          
+3         Nguyen Van C         Thu ky         3          
+4         Nguyen Van D         Tro ly         4          

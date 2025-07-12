@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1727881830 source:d:\tuân\4\main.cpp
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<tchar.h>
+
+1727881830 source:d:\code\4\main.cpp
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<tchar.h>
+

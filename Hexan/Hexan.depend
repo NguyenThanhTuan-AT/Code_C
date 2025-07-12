@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732962098 source:d:\code\hexan\main.c
+	<stdio.h>
+	<stdlib.h>
+

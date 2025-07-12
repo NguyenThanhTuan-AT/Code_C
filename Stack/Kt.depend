@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1742617070 source:d:\code\kt\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+

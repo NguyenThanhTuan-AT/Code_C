@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1741674890 source:d:\code\test\main.c
+	<stdio.h>
+	<math.h>
+	<stdio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<stdio.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+

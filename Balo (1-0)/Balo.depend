@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1751335473 source:d:\codeblocks\balo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1751335473 source:d:\codeblocks\balo (1-0)\main.c
+	<stdio.h>
+	<stdlib.h>
+

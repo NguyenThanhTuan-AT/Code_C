@@ -1,0 +1,60 @@
+Ma SV: SV001
+Ho ten: Nguyen Van A
+Nam sinh: 2000
+Que quan: Ha Noi
+Gioi tinh: Nam
+
+Ma SV: 
+Ho ten: SV002
+Nam sinh: 0
+Que quan: ran Thi B
+Gioi tinh: 200
+
+Ma SV: 1
+Ho ten: Hai Phong
+Nam sinh: 0
+Que quan: u
+Gioi tinh: SV0
+
+Ma SV: 03
+Ho ten: Le Van C
+Nam sinh: 2002
+Que quan: Da Nang
+Gioi tinh: Nam
+
+Ma SV: 
+Ho ten: SV004
+Nam sinh: 0
+Que quan: ham Thi D
+Gioi tinh: 199
+
+Ma SV: 9
+Ho ten: Hue
+Nam sinh: 0
+Que quan: u
+Gioi tinh: SV0
+
+Ma SV: 05
+Ho ten: Nguyen Van E
+Nam sinh: 2000
+Que quan: Ho Chi Minh
+Gioi tinh: Nam
+
+Ma SV: 
+Ho ten: SV006
+Nam sinh: 0
+Que quan: ui Thi F
+Gioi tinh: 200
+
+Ma SV: 1
+Ho ten: Can Tho
+Nam sinh: 0
+Que quan: u
+Gioi tinh: SV0
+
+Ma SV: 07
+Ho ten: Do Van G
+Nam sinh: 2002
+Que quan: Vinh
+Gioi tinh: Nam
+

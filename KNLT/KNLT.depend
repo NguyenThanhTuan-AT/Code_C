@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750084773 source:d:\codeblocks\knlt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

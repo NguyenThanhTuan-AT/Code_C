@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1737620003 source:d:\code\th\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1737620003 source:d:\code\many time pad 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1748219116 source:d:\codeblocks\ctdl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1748229407 source:d:\codeblocks\ctdl 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

@@ -1,0 +1,36 @@
+#include <stdio.h>
+void xoayOc(int dong, int cot, int a[dong][cot])
+{
+    int i, j;
+    int vong = 0, giatri = 1;
+    while(giatri <= dong * cot)
+    {
+        for(j=vong; j<cot - vong; j++)
+            if(giatri <= dong * cot) a[vong][j] = giatri++;
+        for(i=1+vong; i<dong-vong; i++)
+            if(giatri <= dong * cot) a[i][cot-1-vong] = giatri++;
+        for(j=cot-2-vong; j>= vong; j--)
+            if(giatri <= dong * cot) a[dong-1-vong][j] = giatri++;
+        for(i=dong-2-vong; i>vong; i--)
+            if(giatri <= dong * cot) a[i][vong] = giatri++;
+        vong++;
+    }
+}
+void inMaTran(int dong, int cot, int a[dong][cot])
+{
+    int i, j;
+    for(i=0; i<dong; i++)
+    {
+        for(j=0; j<cot; j++) printf("%4d", a[i][j]);
+        printf("\n");
+    }
+}
+int main()
+{
+    int m, n;
+    scanf("%d %d", &m, &n);
+    int a[m][n];
+    xoayOc(m, n, a);
+    inMaTran(m, n, a);
+    return 0;
+}
