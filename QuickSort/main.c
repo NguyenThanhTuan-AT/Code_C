@@ -14,13 +14,13 @@ int Partition(int a[], int t, int p)
     int j = p;
     do
     {
-        while(i<=j && a[i]< a[t]) i++;
+        while(i<=j && a[i]<= a[t]) i++;
         while(i<=j && a[j]> a[t]) j--;
         if(i< j)
         {
             doi_cho(a, i, j);
             i++;
-            j++;
+            j--;
         }
     }
     while(i<=j);
@@ -41,8 +41,10 @@ void Quick_sort(int a[], int t, int p)
 int main()
 {
     int n;
+    printf("Nhap sl phan tu: ");
     scanf("%d", &n);
     int a[n];
+    printf("Nhap phan tu: ");
     for(int i = 0; i<n; i++) scanf("%d", &a[i]);
     Quick_sort(a, 0, n-1);
     for(int i = 0; i<n; i++) printf("%d ", a[i]);
