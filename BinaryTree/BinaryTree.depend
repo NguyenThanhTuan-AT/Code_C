@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1752569174 source:d:\codeblocks\binarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
